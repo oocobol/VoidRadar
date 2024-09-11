@@ -296,9 +296,9 @@ var allL2Btns = [
 // https://www.roc.noaa.gov/WSR88D/Operations/VCP.aspx
 var vcpObj = {
     '12': 'Precip Mode',
-    '31': 'Clean Air Mode',
-    '32': 'Clean Air Mode',
-    '35': 'Clean Air Mode',
+    '31': 'Clear Air Mode',
+    '32': 'Clear Air Mode',
+    '35': 'Clear Air Mode',
     '112': 'Precip Mode',
     '121': 'Precip Mode',
     '212': 'Precip Mode',
